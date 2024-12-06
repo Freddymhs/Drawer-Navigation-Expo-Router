@@ -1,10 +1,10 @@
 import { View, Text } from "react-native";
 import React from "react";
 
-export default function Settings() {
+export default function Bebidas() {
   return (
     <View>
-      <Text>CONTENIDO PRINCIPAL DE LA APLICACION</Text>
+      <Text>CBebidasION</Text>
     </View>
   );
 }
